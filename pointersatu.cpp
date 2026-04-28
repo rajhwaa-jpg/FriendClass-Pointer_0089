@@ -18,5 +18,6 @@ int main (){
 
     mahasiswa *pMhs = &mhs; //pointer defrence pMhs 
     pMhs->nim = 3; //arrow operator 
-   
+    pMhs->showNim();
+    return 0; 
 }
