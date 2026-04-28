@@ -10,4 +10,7 @@ class mahasiswa{
 
 int main (){
     mahasiswa mhs{1}; //objek mhs 
- 
+    mhs.showNim(); //Member Access Operator
+
+  
+}
